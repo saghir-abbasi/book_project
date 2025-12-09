@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus_book_site=globalThis.webpackChunkdocusaurus_book_site||[]).push([[6206],{4617:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/book_project/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
